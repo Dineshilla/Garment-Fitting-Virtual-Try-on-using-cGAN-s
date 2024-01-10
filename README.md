@@ -16,5 +16,12 @@ The project achieved notable success, as evidenced by our results:
 ## How to Use
 ToDo
 
+If you have any questions or suggestions, feel free to contact the project contributors:
+
+- Illa Dinesh Kumar - idineshkumar12321@gmail.com
+- Anirudh Edpugnati - aniedpuganti@gmail.com
+- Onteddu Chaitanya Reddy - chaitanyareddy0702@gmail.com
+- Guttula Pavan - pavanguttula123@gmail.com
+
 
 Thank you for checking out our Garment fitting Virtual Try-On System!
